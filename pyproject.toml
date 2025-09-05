@@ -1,0 +1,15 @@
+[project]
+name = "saag-soy-monitor"
+version = "0.1.0"
+description = "Smart SAAG prototype for soybean monitoring (Centelha II)"
+readme = "README.md"
+authors = [{name="Smart SAAG"}]
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "pydantic",
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

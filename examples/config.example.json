@@ -1,0 +1,21 @@
+{
+  "sentinel_hub": {
+    "client_id": "YOUR_ID",
+    "client_secret": "YOUR_SECRET",
+    "resolution": 10,
+    "collection": "SENTINEL2_L2A"
+  },
+  "area": {
+    "bbox": [
+      -63.95,
+      -8.85,
+      -63.8,
+      -8.75
+    ],
+    "crs": "EPSG:4326"
+  },
+  "time": {
+    "start": "2025-05-01",
+    "end": "2025-09-01"
+  }
+}
