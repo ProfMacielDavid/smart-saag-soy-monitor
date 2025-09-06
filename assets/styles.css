@@ -1,0 +1,22 @@
+:root { --radius: 16px; }
+
+.block-container { padding-top: 2rem; padding-bottom: 3rem; }
+
+.saag-card {
+  background: #121826;
+  padding: 20px;
+  border-radius: var(--radius);
+  border: 1px solid rgba(255,255,255,0.06);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.25);
+}
+
+.saag-btn {
+  padding: 0.6rem 1rem;
+  border-radius: 999px;
+  border: none;
+  background: #2E6FF2;
+  color: #fff;
+  font-weight: 600;
+}
+
+.saag-muted { color: #9AA4B2; font-size: 0.9rem; }

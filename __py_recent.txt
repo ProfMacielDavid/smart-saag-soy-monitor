@@ -1,0 +1,16 @@
+
+FullName                                                                                                 LastWriteTime       Length
+--------                                                                                                 -------------       ------
+E:\Projeto_Smart_SAAG_2025_GitHub\smart-saag-soy-monitor\app_logo_test.py                                06/09/2025 07:16:45    307
+E:\Projeto_Smart_SAAG_2025_GitHub\smart-saag-soy-monitor\logo_header.py                                  06/09/2025 07:12:39   2860
+E:\Projeto_Smart_SAAG_2025_GitHub\smart-saag-soy-monitor\app\pages\03_Exportações.py                     05/09/2025 14:01:32   4655
+E:\Projeto_Smart_SAAG_2025_GitHub\smart-saag-soy-monitor\src\saag_soy_monitor\pipeline.py                05/09/2025 13:29:12   4770
+E:\Projeto_Smart_SAAG_2025_GitHub\smart-saag-soy-monitor\app\pages\02_Séries_Temporais.py                05/09/2025 13:21:25    613
+E:\Projeto_Smart_SAAG_2025_GitHub\smart-saag-soy-monitor\app\Home.py                                     05/09/2025 13:21:25   1769
+E:\Projeto_Smart_SAAG_2025_GitHub\smart-saag-soy-monitor\app\pages\01_Áreas_e_Períodos.py                05/09/2025 13:21:25    427
+E:\Projeto_Smart_SAAG_2025_GitHub\smart-saag-soy-monitor\src\saag_soy_monitor\senhub.py                  05/09/2025 13:02:35   1222
+E:\Projeto_Smart_SAAG_2025_GitHub\smart-saag-soy-monitor\src\saag_soy_monitor\examples\fetch_and_ndvi.py 05/09/2025 13:02:01    758
+E:\Projeto_Smart_SAAG_2025_GitHub\smart-saag-soy-monitor\src\saag_soy_monitor\__init__.py                05/09/2025 12:43:53      0
+
+
+

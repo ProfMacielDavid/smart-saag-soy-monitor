@@ -1,0 +1,16 @@
+# App UI
+streamlit
+plotly
+pillow
+
+# Manipulação de dados
+pandas
+numpy
+pyarrow
+
+# Geoespacial (para exportar GeoPackage)
+geopandas
+shapely
+fiona
+pyproj
+pyogrio

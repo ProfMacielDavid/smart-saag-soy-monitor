@@ -1,0 +1,6 @@
+E:\Projeto_Smart_SAAG_2025_GitHub\smart-saag-soy-monitor\app\Home.py
+E:\Projeto_Smart_SAAG_2025_GitHub\smart-saag-soy-monitor\app\pages\01_Áreas_e_Períodos.py
+E:\Projeto_Smart_SAAG_2025_GitHub\smart-saag-soy-monitor\app\pages\02_Séries_Temporais.py
+E:\Projeto_Smart_SAAG_2025_GitHub\smart-saag-soy-monitor\app\pages\03_Exportações.py
+E:\Projeto_Smart_SAAG_2025_GitHub\smart-saag-soy-monitor\app_logo_test.py
+E:\Projeto_Smart_SAAG_2025_GitHub\smart-saag-soy-monitor\logo_header.py
